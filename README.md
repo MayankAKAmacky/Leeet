@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/MayankAKAmacky/Leeet/tree/master/0054-spiral-matrix) |
+| [0217-contains-duplicate](https://github.com/MayankAKAmacky/Leeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MayankAKAmacky/Leeet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MayankAKAmacky/Leeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MayankAKAmacky/Leeet/tree/master/0268-missing-number) |
 ## Math
 |  |
@@ -27,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/MayankAKAmacky/Leeet/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/MayankAKAmacky/Leeet/tree/master/0268-missing-number) |
 ## Matrix
 |  |
