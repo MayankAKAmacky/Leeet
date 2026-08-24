@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/MayankAKAmacky/Leeet/tree/master/0054-spiral-matrix) |
 | [0268-missing-number](https://github.com/MayankAKAmacky/Leeet/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
@@ -27,4 +28,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/MayankAKAmacky/Leeet/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MayankAKAmacky/Leeet/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/MayankAKAmacky/Leeet/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
